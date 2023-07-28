@@ -138,6 +138,5 @@ def main():
 
     exploit(options.rhost, options.rport, options.lhost, options.lport, filename, options.command, options.auth)
 
-#wow-you-find-flag
 if __name__ == '__main__':
     main()
